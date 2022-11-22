@@ -1,5 +1,8 @@
 # Project 1: Mood Tracker
 
+Deployed App URL:
+https://ralphmenard0.github.io/PROJECT-1-MOOD-TRACKER/
+
 The Mood Tracker is a tool for welcoming kids into a new virtual space and checking in with how they are feeling.  Depending on the weather selection and the feeling chosen, they will receive several minutes of content curated for their mood.  If the user (or parent of the user) wants to see the past results, there is "A Look into the past..." section that shows the date, the mood chosen, and the weather on that day.
 
 ## Table of Contents 
